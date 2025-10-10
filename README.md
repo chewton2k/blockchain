@@ -1,2 +1,2 @@
-# BlockChain
-Python BlockChain Project
+# Blockchain
+Python Blockchain Project
