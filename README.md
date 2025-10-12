@@ -38,7 +38,11 @@ source venv/bin/activate  # macOS/Linux
 
 # Install dependencies
 pip install flask
+
+# To Run
+python blockchain.py 
 ```
+
 
 ## Acknowledgements
 
